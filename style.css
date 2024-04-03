@@ -36,11 +36,12 @@ body {
 }
 
 .imagens1{
-    width: 20%;
-    height: 20%;
+    width: 200px;
+    height: 200px;
 }
 
 
 .meta-organizar{
     display:inline;
+    padding: 20px;
 }
